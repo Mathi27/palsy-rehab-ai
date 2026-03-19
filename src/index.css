@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can keep any custom body styles below */
+body {
+  background-color: #f8fafc;
+}
