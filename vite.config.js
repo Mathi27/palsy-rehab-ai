@@ -21,14 +21,15 @@ export default defineConfig({
         display: "standalone",
         icons: [
           {
-            src: 'face-app-icon.ico', // Removed leading slash for relative path
+            src: 'face-app-icon.ico', 
             sizes: '64x64 32x32 24x24 16x16',
-            type: 'image/x-icon'
+            type: 'image/x-icon',
+            purpose:'any'
           }
         ]
       },
       workbox: {
-        // 2. THIS IS THE FIX: Clears old broken versions of the app automatically
+        
         cleanupOutdatedCaches: true, 
         runtimeCaching: [
           {
