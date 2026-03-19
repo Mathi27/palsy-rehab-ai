@@ -15,7 +15,7 @@ FaceApp Rehab is a professional-grade Progressive Web App (PWA) designed to assi
 <div align="center">
   <img src="./src/assets/app-ui-1.png" width="45%" alt="Dashboard Analytics" style="border-radius: 10px; margin: 5px;">
   <img src="./src/assets/app-ui-2.png" width="45%" alt="Exercise Interface" style="border-radius: 10px; margin: 5px;">
-  <p><em>Left: Recovery Analytics Dashboard | Right: Real-time Computer Vision Exercise Guide</em></p>
+  <p><em>Left: Real-time Computer Vision Exercise Guide | Right: Recovery Analytics Dashboard </em></p>
 </div>
 
 ##  Key Features
