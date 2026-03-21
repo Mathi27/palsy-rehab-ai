@@ -49,4 +49,5 @@ FaceApp Rehab is a professional-grade Progressive Web App (PWA) designed to assi
 - **`/hooks/useFaceMesh.js`**: Isolates the side-effects of webcam access and the MediaPipe WebAssembly lifecycle.
 - **State Management**: Context API / LocalStorage for session persistence to ensure data never leaves the patient's device.
 
-- Active under development
+- Active under development | open for contributions
+  
